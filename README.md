@@ -3,7 +3,7 @@
 These samples were taken from a project that used to be a live application.
 This folder contains a few components and a few of their dependencies as a code sample and resembles the original folder structure in a very simplified way.
 The application structure was based off the react arc template (https://github.com/diegohaz/arc).
-The folders "components", "containers" and "store" each contain webpack scripts at the top level for easy access to the exported entities of all js files inside them. This reduces the effort and lines of code for writing import statements.
+The folders "components", "containers" and "store" each contain webpack scripts at the top level for easy access to the exported entities of all js files. This reduces the effort and lines of code for writing import statements.
 
 ####The Folder Structure
 
