@@ -5,7 +5,7 @@ This folder contains a few components and a few of their dependencies as a code 
 The application structure was based off the react arc template (https://github.com/diegohaz/arc).
 The folders "components", "containers" and "store" each contain webpack scripts at the top level for easy access to the exported entities of all js files. This reduces the effort and lines of code for writing import statements.
 
-####The Folder Structure
+#### The Folder Structure
 
 **components**
 
@@ -37,6 +37,6 @@ Per subcategory five code files exist:
 
 Contains helper functions for application-wide use
 
-####Storybook
+#### Storybook
 
 Some component folders also contains an index.stories.js file. These are used by the tool Storybook which we used to present some of the components to the product team at request and document essential components.
